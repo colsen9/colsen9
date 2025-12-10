@@ -12,10 +12,12 @@ Senior student at Iowa State University pursuing a Bachelor of Science in Comput
 * Cybersecurity – Protecting systems, data, and users through secure design and best practices
 * Continuous Learning – Staying current with modern tools, languages, and development methodologies
 
-## CONTACT ME
+## CONTACT
 
 Email: [caydengolsen@gmail.com](mailto:caydengolsen@gmail.com)
-LinkedIn: linkedin.com/in/cayden-olsen-61b78128b
+LinkedIn:
+linkedin.com/in/cayden-olsen-61b78128b
+
 
 
 <!---
