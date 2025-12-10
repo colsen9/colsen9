@@ -1,10 +1,10 @@
-# CAYDEN OLSEN
+# Cayden G. Olsen
 
-## ABOUT ME
+## About Me
 
 Senior student at Iowa State University pursuing a Bachelor of Science in Computer Science. Passionate about building reliable software, solving complex problems, and continuously improving my technical skill set. I enjoy exploring the intersection of software engineering, systems, and security. After graduation, I plan to search for work opportunities in the Greater Chicagoland Area with a focus in Information Technology and Cybersecurity
 
-## MY INTERESTS
+## My Interests
 
 * Software Engineering – Designing and developing scalable, maintainable applications
 * Programming – Writing clean, efficient code and learning new technologies
@@ -12,12 +12,7 @@ Senior student at Iowa State University pursuing a Bachelor of Science in Comput
 * Cybersecurity – Protecting systems, data, and users through secure design and best practices
 * Continuous Learning – Staying current with modern tools, languages, and development methodologies
 
-## CONTACT ME
+## Contact Me
 
 * Email: [caydengolsen@gmail.com](mailto:caydengolsen@gmail.com)
 * LinkedIn: [https://www.linkedin.com/in/cayden-olsen-61b78128b/](https://www.linkedin.com/in/cayden-olsen-61b78128b/)
-
-<!---
-colsen9/colsen9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
