@@ -14,11 +14,8 @@ Senior student at Iowa State University pursuing a Bachelor of Science in Comput
 
 ## CONTACT
 
-Email: [caydengolsen@gmail.com](mailto:caydengolsen@gmail.com)
-LinkedIn:
-linkedin.com/in/cayden-olsen-61b78128b
-
-
+* Email: [caydengolsen@gmail.com](mailto:caydengolsen@gmail.com)
+* LinkedIn: [https://www.linkedin.com/in/cayden-olsen-61b78128b/](https://www.linkedin.com/in/cayden-olsen-61b78128b/)
 
 <!---
 colsen9/colsen9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
