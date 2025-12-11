@@ -15,4 +15,4 @@ Senior student at Iowa State University pursuing a Bachelor of Science in Comput
 ## Contact Me
 
 * Email: [caydengolsen@gmail.com](mailto:caydengolsen@gmail.com)
-* LinkedIn: [https://www.linkedin.com/in/cayden-olsen/](https://www.linkedin.com/in/cayden-olsen/)
+* LinkedIn: [https://www.linkedin.com/in/caydenolsen/](https://www.linkedin.com/in/caydenolsen/)
