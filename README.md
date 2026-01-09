@@ -2,7 +2,7 @@
 
 ## About Me
 
-Senior student at Iowa State University pursuing a Bachelor of Science in Computer Science. Passionate about building reliable software, solving complex problems, and continuously improving my technical skill set. I enjoy exploring the intersection of software engineering, systems, and security. After graduation, I plan to search for work opportunities in the Greater Chicagoland Area with a focus in Information Technology and Cybersecurity
+Senior student at Iowa State University pursuing a Bachelor of Arts in Computer Science. Passionate about building reliable software, solving complex problems, and continuously improving my technical skill set. I enjoy exploring the intersection of software engineering, systems, and security. After graduation, I plan to search for work opportunities in the Greater Chicagoland Area with a focus in Information Technology and Cybersecurity
 
 ## My Interests
 
